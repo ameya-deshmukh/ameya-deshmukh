@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ameya Deshmukh!👋 
 
-<!--
-**ameya-deshmukh/ameya-deshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+- 🔭 I’m currently working as a developer in the  [Plutus Pioneers Program] ("https://testnets.cardano.org/en/plutus-pioneer-program/")
+- 🌱 I’m currently learning Haskell and Rust  
+- 👯 I’m looking to collaborate on anything related to blockchain development (bounties on [Gitcoin] ("https://gitcoin.co") for example)
+- 🥅 2021 Goals: Contribute to open source blockchain projects and participate in as many hackathons as possible
+- ⚡ Fun fact: I made this Readme while waiting for nerdfonts to download for my NeoVim setup.
+
+
+
