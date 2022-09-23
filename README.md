@@ -3,7 +3,7 @@
 
 
 ## 
-- 🔭 I'm currently building [CRENFT](https://github.com/ameya-deshmukh/cross-chain-ninja) as a part of the [Flipside x Axelar Buildathon](https://flipsidecrypto.xyz/buildathon)
+- 🔭 I'm currently building [Cross Chain Ninja](https://github.com/ameya-deshmukh/cross-chain-ninja) as a part of the [Flipside x Axelar Buildathon](https://flipsidecrypto.xyz/buildathon)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Go](https://go.dev)
 - 👯 I’m looking to collaborate on anything related to blockchain development (bounties on [Gitcoin](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created) for example)
 - 🥅 2022 Goals: Contribute to open source blockchain projects and participate in as many hackathons as possible
