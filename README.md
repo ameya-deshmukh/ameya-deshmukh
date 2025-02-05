@@ -3,10 +3,9 @@
 
 
 ## 
-- 🔭 I'm primarily interested in zero-knowledge cryptography, efficient distributed consensus and cryptoeconomics.
-- 🌱 I’m currently learning [Nix](https://nixos.org/manual/nix/stable/language/index.html) and exploring the Nix ecosystem
-- 👯 I’m looking to collaborate on anything related to blockchain development (bounties on [Gitcoin](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created) for example), cryptography engineering and distributed systems.
-- 🥅 2024 Goals: Contribute to open source blockchain projects and participate in as many hackathons as possible
+- 🔭 I'm primarily interested in privacy, efficient distributed consensus and cryptoeconomics.
+- 🌱 I’m currently working on encrypted blockchains at [Seismic](https://seismic.systems)
+- 🥅 2025 Goals: Collaborate with developers on anything related to novel applications of programmable private state!
 - ⚡ Fun fact: I made this Readme while waiting for [nerdfonts](https://github.com/ryanoasis/nerd-fonts) to download for my NeoVim setup.
 
 
